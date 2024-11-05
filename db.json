@@ -1,0 +1,144 @@
+{
+    "fruits": [
+      {
+        "id": 1,
+        "name": "Apple",
+        "color": "Red",
+        "taste": "Sweet",
+        "season": "Fall",
+        "nutritional_value": {
+          "calories": 95,
+          "fiber": 4.4,
+          "vitamin_c": 14
+        },
+        "origin": "Central Asia",
+        "fun_fact": "Apples float in water because they are 25% air!"
+      },
+      {
+        "id": 2,
+        "name": "Banana",
+        "color": "Yellow",
+        "taste": "Sweet",
+        "season": "Year-round",
+        "nutritional_value": {
+          "calories": 105,
+          "fiber": 3.1,
+          "potassium": 422
+        },
+        "origin": "Southeast Asia",
+        "fun_fact": "Bananas are berries, but strawberries aren't!"
+      },
+      {
+        "id": 3,
+        "name": "Cherry",
+        "color": "Red",
+        "taste": "Tart",
+        "season": "Summer",
+        "nutritional_value": {
+          "calories": 50,
+          "fiber": 1.6,
+          "vitamin_c": 10
+        },
+        "origin": "Europe and Asia",
+        "fun_fact": "There are over 1,000 varieties of cherries!"
+      },
+      {
+        "id": 4,
+        "name": "Dragon Fruit",
+        "color": ["Pink", "Green"],
+        "taste": ["Sweet", "Mild"],
+        "season": ["Summer", "Fall"],
+        "nutritional_value": {
+          "calories": 60,
+          "fiber": 7,
+          "vitamin_c": 3
+        },
+        "origin": ["Mexico", "Central America"],
+        "fun_fact": "'Pitaya' is another name for dragon fruit!"
+      },
+      {
+        "id": 5,
+        "name": "Grapes",
+        "color": ["Green", "Red", "Black"],
+        "taste": ["Sweet", "Tart"],
+        "season": ["Summer", "Fall"],
+        "nutritional_value": {
+          "calories": 104,
+          "fiber": 1.4,
+          "vitamin_k": 22
+        },
+        "origin": ["Middle East", "Mediterranean"],
+        "fun_fact": "'Wine' is made from fermented grapes!"
+      },
+      {
+        "id": 6,
+        "name": "Kiwi",
+        "color": "Brown",
+        "taste": "Tart and Sweet",
+        "season": "Winter",
+        "nutritional_value": {
+          "calories": 42,
+          "fiber": 2.1,
+          "vitamin_c": 71
+       },
+       "origin": "China",
+       "fun_fact": "Kiwis have more vitamin C than oranges!"
+      },
+      {
+         "id": 7,
+         "name": "Mango",
+         "color": ["Yellow", "Green"],
+         "taste": "Sweet and Juicy",
+         "season": "Summer",
+         "nutritional_value": {
+             "calories": 150,
+             "fiber": 5,
+             "vitamin_a": 54
+         },
+         "origin": ["South Asia", "India"],
+         "fun_fact": "Mangoes are known as the 'king of fruits'!"
+     },
+     {
+         "id": 8,
+         "name": "Orange",
+         "color": ["Orange"],
+         "taste": ["Sweet", "Tangy"],
+         "season": ["Winter", "Spring"],
+         "nutritional_value": {
+             "calories": 62,
+             "fiber": 3.1,
+             "vitamin_c": 70
+         },
+         "origin": ["Southeast Asia"],
+         "fun_fact": "'Navel' oranges are seedless and easy to peel!"
+     },
+     {
+         "id": 9,
+         "name": "Papaya",
+         "color": "Orange",
+         "taste": "Sweet and Tropical",
+         "season": "Year-round",
+         "nutritional_value": {
+             "calories": 59,
+             "fiber": 2.5,
+             "vitamin_c": 60
+         },
+         "origin": "Central America",
+         "fun_fact": "Papayas contain an enzyme called papain that aids digestion!"
+     },
+     {
+         "id":10,
+         "name": "Pineapple",
+         "color": "Yellow-Brown",
+         "taste": "Sweet and Tart",
+         "season": "Spring-Summer",
+         "nutritional_value": {
+             "calories": 75,
+             "fiber": 2.3,
+             "vitamin_c":79
+         },
+         "origin": "South America",
+         "fun_fact": "Pineapples take about two years to grow!"
+     }
+   ]
+  }
